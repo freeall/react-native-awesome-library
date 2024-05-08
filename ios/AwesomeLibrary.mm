@@ -15,5 +15,15 @@ RCT_EXPORT_METHOD(multiply:(double)a
     resolve(result);
 }
 
+RCT_EXPORT_METHOD(divide:(double)a
+                  b:(double)b
+                  resolve:(RCTPromiseResolveBlock)resolve
+                  reject:(RCTPromiseRejectBlock)reject)
+{
+    NSNumber *result = @(awesomelibrary::divide(a, b));
+
+    resolve(result);
+}
+
 
 @end
