@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeall/rn-awesome-library/react-native-awesome-library.git"
+    "url": "git+https://github.com/freeall/react-native-awesome-library.git"
   },
-  "author": "Tobias Baunbaek <freeall@gmail.com> (https://github.com/freeall/rn-awesome-library)",
+  "author": "Tobias Baunbaek <freeall@gmail.com> (https://github.com/freeall/react-native-awesome-library)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freeall/rn-awesome-library/react-native-awesome-library/issues"
+    "url": "https://github.com/freeall/react-native-awesome-library/issues"
   },
-  "homepage": "https://github.com/freeall/rn-awesome-library/react-native-awesome-library#readme",
+  "homepage": "https://github.com/freeall/react-native-awesome-library#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
